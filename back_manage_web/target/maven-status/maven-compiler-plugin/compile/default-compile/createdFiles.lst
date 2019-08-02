@@ -1,0 +1,7 @@
+com\nuaa\back_ma\controller\OrdersController.class
+com\nuaa\back_ma\controller\SysLogController.class
+com\nuaa\back_ma\controller\PermissionController.class
+com\nuaa\back_ma\controller\RoleControler.class
+com\nuaa\back_ma\controller\LogAop.class
+com\nuaa\back_ma\controller\UserController.class
+com\nuaa\back_ma\controller\ProductController.class

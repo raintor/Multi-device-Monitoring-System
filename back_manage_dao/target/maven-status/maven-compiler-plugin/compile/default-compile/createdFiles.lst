@@ -1,0 +1,8 @@
+com\nuaa\back_ma\dao\ITravellerDao.class
+com\nuaa\back_ma\dao\ILogDao.class
+com\nuaa\back_ma\dao\IOrdersDao.class
+com\nuaa\back_ma\dao\IUserDao.class
+com\nuaa\back_ma\dao\IPermissionDao.class
+com\nuaa\back_ma\dao\IRolesDao.class
+com\nuaa\back_ma\dao\IMemberDao.class
+com\nuaa\back_ma\dao\IProductDao.class

@@ -1,0 +1,12 @@
+com\nuaa\back_ma\service\impl\UserService.class
+com\nuaa\back_ma\service\IOrdersService.class
+com\nuaa\back_ma\service\IProductService.class
+com\nuaa\back_ma\service\IRoleService.class
+com\nuaa\back_ma\service\impl\ProductService.class
+com\nuaa\back_ma\service\IPermissionService.class
+com\nuaa\back_ma\service\IUserService.class
+com\nuaa\back_ma\service\impl\LogService.class
+com\nuaa\back_ma\service\impl\PermissionService.class
+com\nuaa\back_ma\service\ILogService.class
+com\nuaa\back_ma\service\impl\OrdersService.class
+com\nuaa\back_ma\service\impl\RoleService.class

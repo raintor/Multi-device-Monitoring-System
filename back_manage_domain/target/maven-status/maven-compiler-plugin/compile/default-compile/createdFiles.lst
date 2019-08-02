@@ -1,0 +1,8 @@
+com\nuaa\back_ma\domain\Role.class
+com\nuaa\back_ma\domain\UserInfo.class
+com\nuaa\back_ma\domain\SysLog.class
+com\nuaa\back_ma\domain\Member.class
+com\nuaa\back_ma\domain\Traveller.class
+com\nuaa\back_ma\domain\Product.class
+com\nuaa\back_ma\domain\Orders.class
+com\nuaa\back_ma\domain\Permission.class
